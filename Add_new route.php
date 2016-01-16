@@ -2,7 +2,7 @@
 
  <div class="row">
     <div class="col-lg-12">
-        <div class="col-lg-6 col-sx-6">
+        <div class="col-lg-6 col-sx-6">ritesh
             <div style="float: left; color: red; background-color: #ccccff; padding: 12px; border-radius: 10px;">Add Route & Transport</div>
         </div>
         <div class="col-lg-6 col-sx-6"><a href="Route detail.php">
