@@ -9,7 +9,7 @@
               <div class="panel padder-v item">
                   
                                     <img src="img/module_icon/add_users.png" class="responsive" />
-                <span class="text-muted text-xs">Student</span>
+                <span class="text-muted text-xs">Students</span>
                 <div class="top text-right w-full">
                   <i class="fa fa-caret-down text-warning m-r-sm"></i>
                 </div>
